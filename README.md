@@ -1,2 +1,4 @@
-# WT-Assignment
-Web Technologies assignment 1
+# Web Technologies - Assignment 1
+## Screenshots
+
+### Q1:
