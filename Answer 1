@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <title> Question 1</title>
+</head>
+<body>
+  <h1>Character Entities examples</h1>
+    <ol>
+        <li>The address of variable is represented as &amp;a</li>
+        <li>5&lt;6</li>
+        <li>10&gt;7</li>
+        <li>This represents &quot; Double quote &quot;</li>
+        <li>This represents &apos;Single quote &apos;</li>
+        <li>One-fifth fraction is represented as &frac15;</li>
+        <li>The degree is represented as 180&deg;</li>
+        <li>The currency of Europe is &euro;</li>
+        <li>&copy; FEB 2021, Akshaya Nadathur. All copyrigths reserved</li>
+    </ol>
+</body>
+</html>
