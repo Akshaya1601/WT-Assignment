@@ -38,6 +38,14 @@ iv. Table should have a dashed, 1px width, grey color border.
 
 Write HTML code using lists to display the following:
 
+![Answer5](https://github.com/Akshaya1601/WT-Assignment/blob/main/Screenshots/Ans5.png)
+
+### Q6:
+
+Design the following stair  case (hint: use CSS)
+
+
+
        
 
 
