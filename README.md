@@ -54,6 +54,10 @@ Design the following table (with the rows for Day1 and Day2). Apply CSS appropri
 
 ### Q8:
 
+Create a web page using form. Once you click on submit button, link it to another page. Note: Use external CSS for styling.
+
+![Answer8](https://github.com/Akshaya1601/WT-Assignment/blob/main/Screenshots/Ans8.png)
+
 
 
 
