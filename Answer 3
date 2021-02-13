@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+ <title>Question 3</title>
+ <style>
+ body
+    {
+      background-color: black;
+      text-align: center;
+      }
+ h1
+    {
+      color: white;
+      }
+ p
+    {
+      color: white;
+      }
+img
+{
+       height: 170px;
+       width: 150px;
+       padding-right:50px;
+       padding-left: 50px;
+       }
+</style>
+</head>
+<body>
+ <h1>This is heading</h1>
+ <p>This is paragraph</p>
+ <img src="Bingo2.jpg" alt="picture">
+</body>
+</html>
