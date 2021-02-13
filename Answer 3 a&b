@@ -1,0 +1,79 @@
+a)
+
+<!DOCTYPE html>
+<head>
+ <title>Question 3</title>
+ <style>
+ body
+    {
+      background-color: black;
+      text-align: center;
+      }
+ h1
+    {
+      color: white;
+      }
+ p
+    {
+      color: white;
+      }
+img
+{
+       height: 170px;
+       width: 150px;
+       padding-right:50px;
+       padding-left: 50px;
+       }
+</style>
+</head>
+<body>
+ <h1>This is heading</h1>
+ <p>This is paragraph</p>
+ <img src="Bingo2.jpg" alt="picture">
+</body>
+</html>
+
+b)
+
+<!DOCTYPE html>
+<head>
+ <title>question 3b</title>
+ <style>
+ h1{
+ text-align: center;
+ padding-bottom: 30px;
+ }
+ th{
+ padding-right:50px;
+ padding-left: 50px;
+ }
+ img{
+ height: 150px;
+ width: 150px;
+ padding-right:20px;
+ padding-left: 50px;
+ }
+ </style>
+</head>
+<body>
+ <h1>List of my Fav hobbies</h1>
+ <table>
+ <thead>
+ <th>Cricket </th>
+ <th>Blogging</th>
+ <th>Listening to Music</th>
+ <th>Reading Books</th>
+ <th>Surfing the internet</th>
+ </thead>
+ <tr>
+ <td><a href="https://en.wikipedia.org/wiki/Cricket"><img src="cricket.jpg" alt=""></a></td>
+ <td><a href="https://www.bloggingbasics101.com/how-do-i-start-a-blog/"><img src="blogging.png" alt=""></a></td>
+ <td><a href="https://music.youtube.com/"><img src="music.jpg" alt=""></a></td>
+ <td><a href="https://openlibrary.org/"><img src="books.jpeg" alt=""></a></td>
+ <td><a href="https://www.google.com/"><img src="surfing.jpg" alt=""></a></td>
+ </tr>
+ </table>
+
+</body>
+</html>
+
