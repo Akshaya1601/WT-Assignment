@@ -16,4 +16,14 @@ For every tab, the web page should display some content. Use Relative URLs.
 
 a) Write HTML code to design the webpage as  shown below. Insert any picture.
 
+![Answer3](https://github.com/Akshaya1601/WT-Assignment/blob/main/Screenshots/ans3.png)
+
+b) Design a webpage with images as follows.
+       > Above Each Image the required text should be displayed.
+       > Clicking on each image should lead to a page that describes the image.	
+       
+![Answer3b](https://github.com/Akshaya1601/WT-Assignment/blob/main/Screenshots/ans3b.png)
+       
+
+
 
