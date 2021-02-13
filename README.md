@@ -23,6 +23,21 @@ b) Design a webpage with images as follows.
        > Clicking on each image should lead to a page that describes the image.	
        
 ![Answer3b](https://github.com/Akshaya1601/WT-Assignment/blob/main/Screenshots/ans3b.png)
+
+### Q4:
+
+Create a webpage which contains a table for displaying your personal details like   name, age, father name, mobile no, address, branch, email and gender. Follow the below requirements:
+i. Display your picture in the top right corner of the web page as a background image.
+ii. Display the table header background in red color and the text in white color.
+iii. Display email row in bold font.
+iv. Table should have a dashed, 1px width, grey color border.                     
+
+![Answer4](https://github.com/Akshaya1601/WT-Assignment/blob/main/Screenshots/ans4.png)
+
+### Q5:
+
+Write HTML code using lists to display the following:
+
        
 
 
