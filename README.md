@@ -42,7 +42,19 @@ Write HTML code using lists to display the following:
 
 ### Q6:
 
-Design the following stair  case (hint: use CSS)
+Design the following staircase (hint: use CSS)
+
+![Answer6](https://github.com/Akshaya1601/WT-Assignment/blob/main/Screenshots/Ans6.png)
+
+### Q7:
+
+Design the following table (with the rows for Day1 and Day2). Apply CSS appropriately
+
+![Answer7](https://github.com/Akshaya1601/WT-Assignment/blob/main/Screenshots/Ans7.png)
+
+### Q8:
+
+
 
 
 
